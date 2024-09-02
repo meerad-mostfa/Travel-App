@@ -1,3 +1,16 @@
+
+## Setup Instructions
+
+This project requires Node.js to run. Please ensure you have the correct version installed.
+
+### Node.js Version
+
+To ensure compatibility, please use Node.js version `v20.11.0`. You can check your current version by running:
+
+```sh
+node -v
+
+
 1. Testing Script:
 File: __tests__/calculateDaysDiff.js
 import calculateDaysDiff from '../src/client/js/calculateDaysDiff';
